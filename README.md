@@ -100,7 +100,7 @@ Me chamo Matheus Fernandes, tenho 26 anos e sou natural de Santos - SP. Atualmen
       alt="GitHub Stats" 
       height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSilvaConceicao&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  /> 
 
 </p>
 
