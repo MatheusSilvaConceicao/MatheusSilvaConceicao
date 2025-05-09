@@ -42,4 +42,5 @@ Atualmente desenvolvo projetos como conversores de moeda, geradores de senhas, s
 
 ## 📈 Estatísticas do GitHub
 
-![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusSilvaConceicao&show_icons=true&theme=radical)
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusSilvaConceicao&show_icons=true&theme=radical)
+
